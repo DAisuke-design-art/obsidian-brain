@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "3aea160124fff557",
+    "type": "split",
+    "children": [
+      {
+        "id": "44908f9f6ce3d0c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71514b4657bbdb9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cd7919dec62532e",
+    "type": "split",
+    "children": [
+      {
+        "id": "025d50bf529251f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22648fc3f987604a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "9fbd792c9195766e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "d8a6bed22178286e",
+    "type": "split",
+    "children": [
+      {
+        "id": "13d78fe1b2b5ef81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27caaf17a4274c0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Welcomeへのバックリンク"
+            }
+          },
+          {
+            "id": "6cb913fb2a5d6c07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Welcomeからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "d50ace9ba2a2eb4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "50ae2886d9642c58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Welcomeのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "71514b4657bbdb9a",
+  "lastOpenFiles": [
+    "スタンフォードの脳神経科学者が証明！科学がつきとめた「引き寄せの法則」.md",
+    "テスト.md",
+    "直人-マッキンゼーが予測する未来―――近未来のビジネスは、４つの力に支配されている.md",
+    "尚希-どん底から１日１億円の売り上げを出す方法.md",
+    "善二-医者が教える食事術　最強の教科書――２０万人を診てわかった医学的に正しい食べ方６８.md",
+    "友介-世界一シンプルで科学的に証明された究極の食事.md",
+    "光生-あなたの知らない生体ミネラルの真実　次世代療法とミネラルバランスの重要性.md",
+    "阿久津美栄子-ある日、突然始まる 後悔しないための介護ハンドブック.md",
+    "玉川陽介-勝ち続ける個人投資家のニュースの読み方.md",
+    "坂元康宏-正しい知識で、賢く稼ぐ。仮想通貨「ICO投資」入門.md",
+    "貴文、予防医療普及協会-健康の結論.md",
+    "江田証-パン・豆類・ヨーグルト・りんごを食べてはいけません.md",
+    "長友佑都-長友佑都の食事革命.md",
+    "卓二-「腸の力」であなたは変わる―――一生病気にならない、脳と体が強くなる食事法.md",
+    "株式会社ブロックチェーンハブ、増田一之-実践ブロックチェーン・ビジネス.md",
+    "陳満咲杜-パターンを覚えるだけで勝率7割超! FXチャートの読み方 〜欧米投資家が好んで使うプライスアクションの教科書.md",
+    "グレン・アーノルド、岩本正明-ウォーレン・バフェットはこうして最初の１億ドルを稼いだ――若き日のバフェットに学ぶ最強の投資哲学.md",
+    "隆雄-ＭａｒｋｅｔＨａｃｋ流　世界一わかりやすい米国式投資の技法.md",
+    "愛-はじめまして、アシュタール.md",
+    "羊一-１分で話せ　世界のトップが絶賛した大事なことだけシンプルに伝える技術.md",
+    "顕教-いつの間にか稼いでくれるすごいチーム.md",
+    "ピョートル・フェリクス・グジバチ-世界最高のチーム　グーグル流「最少の人数」で「最大の成果」を生み出す方法.md",
+    "谷原誠-「いい質問」が人を動かす.md",
+    "圭-おしゃべりな腸.md",
+    "前田裕二-メモの魔力　-The Magic of Memos-.md",
+    "早坂　晃徹-印鑑は最強開運ツール.md"
+  ]
+}

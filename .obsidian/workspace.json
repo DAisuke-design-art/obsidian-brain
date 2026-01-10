@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "173f68f0d98e737e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f51dae907733ae1c",
+        "type": "tabs",
+        "dimension": 67.69499417927823,
+        "children": [
+          {
+            "id": "a34036f14f7640e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gut & Brain/0.日記・夢ノート/実現note/法人 月商２００万円稼いだら何に使うのか？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "法人 月商２００万円稼いだら何に使うのか？"
+            }
+          },
+          {
+            "id": "1b428cb6cd312459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gut & Brain/1.YouTube/1. 【台本】食のバズ歴史/忍者は「排泄」を許されない。味も匂いも捨て、便を出さないために作られた「完全吸収食」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "忍者は「排泄」を許されない。味も匂いも捨て、便を出さないために作られた「完全吸収食」"
+            }
+          },
+          {
+            "id": "b0d73c1e03e18d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/8.【美輪明宏】厄払いに行く前に聞いて。厄年は「罰」ではありません.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.【美輪明宏】厄払いに行く前に聞いて。厄年は「罰」ではありません"
+            }
+          },
+          {
+            "id": "aea5b53e137aaeda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gut & Brain/0.日記・夢ノート/2026/2026-01-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-10"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a086d698af8b96e5",
+        "type": "tabs",
+        "dimension": 32.305005820721775,
+        "children": [
+          {
+            "id": "524ccb112e097e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題 ナレーション用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "５ 香害問題 ナレーション用"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2997af487ed9a26a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4df8bb0bb9b04f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c846ae98c30303fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "31c30d33433fe329",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "bd31b699ca3a6ab7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5
+  },
+  "right": {
+    "id": "5561f73bf462b5ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab4f51ebd4395ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ee68fd21979a3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gut & Brain/0.日記・夢ノート/2025/2025-12/2025-12-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-12-21へのバックリンク"
+            }
+          },
+          {
+            "id": "5964ba1fbe9ea1d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gut & Brain/0.日記・夢ノート/2025/2025-12/2025-12-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-12-21からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "e111f8957169a736",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "cd1f1e6bad7580ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "5e82992c7db139c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gut & Brain/0.日記・夢ノート/2025/2025-12/2025-12-21.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-12-21のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b0d73c1e03e18d96",
+  "lastOpenFiles": [
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-10.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-09.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/8.【美輪明宏】厄払いに行く前に聞いて。厄年は「罰」ではありません.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/無題のファイル.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/7.【美輪明宏】その人間関係、あなたの物語には「不要」です。他人は全員「脇役」だと気づきなさい。.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-08.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/6.【美輪明宏】疲れた時こそ、スマホを捨てなさい。たった6分で魂を救う「魔除け」の習慣.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-07.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/5.【美輪明宏】まだパンを食べているの？更年期の不調が止まらない原因は、その「毒」にあります。.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-06.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-05.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/4.【美輪明宏】この世は、修行の場。バケモノと呼ばれたっていいじゃない。.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/3.【美輪明宏】50代は「味」が出てくる本当のスタートライン。人生、これからが本番よ。.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/3.職場の「大嫌いな人」への究極の対処法。性格が合わない相手を「人間」扱いしない、残酷な実践術。.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-04.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/0. 美輪明宏 プロンプト.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/4.志村けん.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-03.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/2.知識はあるのに「教養」がない大人の末路。銀座で見た三島由紀夫と「歩くウィキペディア」の決定的な差.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/2.【禁忌】知識だけの「優等生」は一番使えない。銀座で見飽きた「高学歴の負け組」たち.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-02.md",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書/【警告】「いい人」ほど、惨めな晩年を迎えます。銀座の女帝が見た、地獄に落ちる善人の共通点.md",
+    "Gut & Brain/0.日記・夢ノート/2026/2026-01-01.md",
+    "Gut & Brain/0.日記・夢ノート/ジャーナル テンプレート.md",
+    "Gut & Brain/0.日記・夢ノート/2026/無題のファイル.md",
+    "Gut & Brain/0.日記・夢ノート/2025/2025-12/2025-12-31.md",
+    "Gut & Brain/0.日記・夢ノート/2026",
+    "Gut & Brain/1.YouTube/1.バケモノたちの遺言書",
+    "無題のファイル 1.canvas",
+    "無題のファイル.canvas",
+    "無題のファイル.base",
+    "Gut & Brain/3. rippleartsalon.com",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/無題のファイル.base",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9339.jpeg",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9338.jpeg",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9337.jpeg",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/スクリーンショット 2025-09-18 13.04.13.png",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/スクリーンショット 2025-09-18 13.00.01.png",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9341.jpg",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9339 1.jpeg",
+    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本",
+    "Gut & Brain/1.YouTube/1. 【台本】食のバズ歴史",
+    "Gut & Brain/1.YouTube/2.台本構成",
+    "Gut & Brain/1.YouTube/1.台本プロンプト",
+    "Gut & Brain/1.YouTube",
+    "Gut & Brain/0.日記・夢ノート/31.png"
+  ]
+}

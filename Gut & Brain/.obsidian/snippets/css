@@ -1,0 +1,24 @@
+/* 入力中文字（補完候補）の色を赤にする例 */
+.cm-completionIcon {
+  color: red !important;
+}
+
+/* 入力中のカーソル位置の文字を青にする例 */
+.cm-active {
+  color: blue !important;
+}
+
+/* リスト表示でのテキスト入力時の文字色を白に変更 */
+.cm-editor .cm-line {
+  color: white !important;
+}
+
+/* リスト項目のテキスト入力時の文字色を白に変更 */
+.cm-editor .cm-line .cm-list {
+  color: white !important;
+}
+
+/* 入力中のテキストの色を白に変更 */
+.cm-editor .cm-content {
+  color: white !important;
+}
