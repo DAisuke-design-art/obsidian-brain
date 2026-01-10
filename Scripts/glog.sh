@@ -3,12 +3,13 @@ function glog() {
     # ▼ 設定: Obsidianのパス
     local VAULT_PATH="/Users/daisukemiyauchi/Documents/Obsidian"
     local LOG_FILE="${VAULT_PATH}/Gemini_Log.md"
-    local prompt="$1"
+    # すべての引数をスペース区切りの1つの文字列として取得
+    local prompt="$*"
     local timestamp=$(date "+%Y-%m-%d %H:%M")
 
     # ▼ 入力チェック
     if [ -z "$prompt" ]; then
-        echo "❌ エラー: 質問内容を入力してください"
+        echo "❌ エラー: 質問内容を入力してください (例: glog こんにちは)"
         return 1
     fi
     if ! command -v gemini &> /dev/null; then
@@ -21,53 +22,47 @@ function glog() {
         printf "# Antigravity Chat Log\n\n" > "$LOG_FILE"
     fi
 
-    # ▼ 記録実行
-    printf "\n## [${timestamp}] User Query\n${prompt}\n\n**Answer:**\n" >> "$LOG_FILE"
-    gemini -p "$prompt" | tee -a "$LOG_FILE"
-    printf "\n\n---\n" >> "$LOG_FILE"
+    # ▼ 記録開始
+    printf "\n## [${timestamp}] User Query\n> ${prompt}\n\n**Antigravity Session:**\n\`\`\`text\n" >> "$LOG_FILE"
 
-    # ▼ Git自動バックアップ（安全対策済み）
-    echo "\n🔄 GitHubへバックアップ中..."
-    
-    # ログファイルのみを追加
-    git -C "$VAULT_PATH" add "$LOG_FILE"
-    
-    # 変更チェックとコミット
-    if git -C "$VAULT_PATH" diff-index --quiet HEAD --; then
-        echo "ℹ️ 変更がないためコミットしませんでした。"
-    else
-        git -C "$VAULT_PATH" commit -m "Auto-log: ${timestamp}" > /dev/null 2>&1
+    # ▼ 実行と記録
+    # 標準エラー出力も含めてファイルに記録しつつ、画面にも表示
+    gemini -p "$prompt" 2>&1 | tee -a "$LOG_FILE"
+
+    # ▼ 記録終了
+    printf "\n\`\`\`\n\n---\n" >> "$LOG_FILE"
+
+    # ▼ Git 安全同期 (Fail Fast Strategy)
+    # サブシェル内で実行することで、呼び出し元のディレクトリを変更しない
+    (
+        cd "$VAULT_PATH" || exit 1
         
-        # 競合回避 (Stash -> Pull Rebase -> Pop) -> Push
-        # 1. 未コミットの変更を退避
-        local stashed=0
-        if ! git -C "$VAULT_PATH" diff-index --quiet HEAD --; then
-            git -C "$VAULT_PATH" stash push -m "Auto-glog-stash: ${timestamp}" > /dev/null 2>&1
-            stashed=1
+        # 1. ローカル保存 (コミット)
+        # ログファイルのみをステージング (他にも変更がある場合に巻き込まない)
+        git add "$LOG_FILE"
+        
+        # 変更がある場合のみコミット
+        if ! git diff-index --quiet HEAD --; then
+            git commit -m "Auto-log: ${timestamp}" > /dev/null
         fi
 
-        # 2. Pull (Rebase)
-        if git -C "$VAULT_PATH" pull --rebase origin main > /dev/null 2>&1; then
-             # 3. 退避した変更を戻す
-             if [ $stashed -eq 1 ]; then
-                 git -C "$VAULT_PATH" stash pop > /dev/null 2>&1
-             fi
-             
-             # 4. Push
-             git -C "$VAULT_PATH" push origin main > /dev/null 2>&1
-             if [ $? -eq 0 ]; then
-                 echo "✅ 保存完了！GitHubへの同期に成功しました。"
-             else
-                 echo "⚠️ Push失敗。ネット接続等を確認してください。"
-                 echo "詳細: $(git -C "$VAULT_PATH" push origin main 2>&1)"
-             fi
-        else
-             echo "⚠️ Pull (Rebase) 失敗。手動解決が必要です。"
-             # Rebase失敗時はAbortして元の状態に戻す試み
-             git -C "$VAULT_PATH" rebase --abort > /dev/null 2>&1
-             if [ $stashed -eq 1 ]; then
-                 git -C "$VAULT_PATH" stash pop > /dev/null 2>&1
-             fi
+        # 2. 同期 (Pull --rebase)
+        # 失敗した場合は直ちに中止し、ユーザーに通知する (自動Stash等の危険な操作は行わない)
+        if ! git pull --rebase origin main > /dev/null 2>&1; then
+            echo "⚠️  同期エラー: リモートとの競合、または未コミットの変更が邪魔をしています。"
+            echo "   ログはローカルに保存されましたが、クラウド同期(Push)は行われていません。"
+            echo "   Obsidianフォルダで 'git status' を確認し、手動で解決してください。"
+            # Rebaseが途中であれば安全に中止する
+            git rebase --abort > /dev/null 2>&1
+            return 1
         fi
-    fi
+
+        # 3. Push
+        if ! git push origin main > /dev/null 2>&1; then
+             echo "⚠️  Pushエラー: インターネット接続を確認してください。"
+             return 1
+        fi
+        
+        echo "✅ ログ保存完了 (Synced)"
+    )
 }
