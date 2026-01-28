@@ -23,31 +23,17 @@
             }
           },
           {
-            "id": "aea5b53e137aaeda",
+            "id": "4f55de77ee51b388",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gut & Brain/1.YouTube 台本/1. 食のバズ歴史/9.【日露戦争】海軍カレーは「偽装工作」だった。陸軍2万人を殺した「白米」の正体.md",
+                "file": "1_YouTube_Script/1_Syoku_Bazz/10.「不潔」こそが安全の証。客が暖簾で手脂を拭う、江戸前寿司の「狂った」衛生管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.【日露戦争】海軍カレーは「偽装工作」だった。陸軍2万人を殺した「白米」の正体"
-            }
-          },
-          {
-            "id": "fe2cc851e2cdef31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gut & Brain/1.YouTube 台本/1.伝説のバケモノ〜魂の説法〜/13.【美輪明宏】※残酷な真実⚠️薬指が長い人は「徳を積みすぎた魂」の持ち主です。晩年、巨万の富が雪崩れ込みます.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.【美輪明宏】※残酷な真実⚠️薬指が長い人は「徳を積みすぎた魂」の持ち主です。晩年、巨万の富が雪崩れ込みます"
+              "title": "10.「不潔」こそが安全の証。客が暖簾で手脂を拭う、江戸前寿司の「狂った」衛生管理"
             }
           },
           {
@@ -56,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gut & Brain/0.日記・夢ノート/2026/2026-01-27.md",
+                "file": "Gut & Brain/0.日記・夢ノート/2026/2026-01-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "2026-01-28"
             }
           },
           {
@@ -254,55 +240,55 @@
       "bases:Create new base": false
     }
   },
-  "active": "aea5b53e137aaeda",
+  "active": "4f55de77ee51b388",
   "lastOpenFiles": [
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-27.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-26.md",
-    "Gut & Brain/1.YouTube 台本/1. 食のバズ歴史/9.【日露戦争】海軍カレーは「偽装工作」だった。陸軍2万人を殺した「白米」の正体.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-25.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-24.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-23.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-22.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-21.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-20.md",
-    "Gut & Brain/1.YouTube 台本/1.伝説のバケモノ〜魂の説法〜/13.【美輪明宏】※残酷な真実⚠️薬指が長い人は「徳を積みすぎた魂」の持ち主です。晩年、巨万の富が雪崩れ込みます.md",
-    "Gut & Brain/1.YouTube 台本/1.伝説のバケモノ〜魂の説法〜/12.ホクロ【美輪明宏】※晩年にお金に愛されます。このホクロがある人は、一生食うに困りません.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-19.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-01-18.md",
-    "Gut & Brain/1.YouTube 台本/1. 食のバズ歴史/9.【27,800人変死】明治陸軍を全滅に追い込んだ「白い悪魔」。海軍カレーが生まれた本当の理由.md",
-    "Gut & Brain/1.YouTube 台本/1. 食のバズ歴史/9.修正版",
-    "Gut & Brain/1.YouTube 台本/1. 食のバズ歴史/7.江戸に「ざるそば」は存在しない。粋ではなく「生存」のために食われた一杯.md",
-    "Gut & Brain/1.YouTube 台本/1. 食のバズ歴史/8.忍者は「排泄」を許されない。味も匂いも捨て、便を出さないために作られた「完全吸収食」.md",
-    "Gut & Brain/1.YouTube 台本/1.DAisuke DΞCODE/台本テンプレート.md",
-    "Gut & Brain/1.YouTube 台本/1.DAisuke DΞCODE/1. 台本.md",
-    "Gut & Brain/1.YouTube 台本/1.DAisuke DΞCODE",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題　原稿.md",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題　原稿 vrew.md",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題 ナレーション用.md",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題 Backup.md",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/４-１ 原文.md",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/４ 【９割が知らない】私がSIBO完治へ向けて取り組んだAI実践法.md",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/２.md",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/１.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題　原稿.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題　原稿 vrew.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題 ナレーション用.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/５ 香害問題 Backup.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/４-１ 原文.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/４ 【９割が知らない】私がSIBO完治へ向けて取り組んだAI実践法.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/２.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/１.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/香害問題 ユーザーのリアルな声.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/無題のファイル.base",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/台本テンプレート ４用.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/スクリーンショット 2025-09-18 13.04.13.png",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/スクリーンショット 2025-09-18 13.00.01.png",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/veo プロンプト集.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/IMG_9341.jpg",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/IMG_9339.jpeg",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/IMG_9339 1.jpeg",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/IMG_9338.jpeg",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/IMG_9337.jpeg",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/6-1 嗅覚鈍化 メモ.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/6-2 嗅覚鈍化 メモ.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/6-2 嗅覚鈍化 CS メモ保存.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/6 嗅覚鈍化.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/3 【衝撃の事実】納豆のタレに入っているアレ、知らずに使うと腸が壊れます.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/0 動画タイトル案.md",
+    "Gut & Brain/1.YouTube_Script/1.伝説のバケモノ〜魂の説法〜/分析データ/20260110 データ分析.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/食スコ１.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/ヤクルトR１ ぶとう糖果糖液糖.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/1. 『知らないと一生損する』納豆で体調不良を悪化させてしまう人の特徴７選.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/1. BU 『知らないと一生損する』納豆で体調不良を悪化させてしまう人の特徴７選 1.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/1-2. 『知らないと一生損する』納豆で体調不良を悪化させてしまう人の特徴７選 1.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本",
+    "Gut & Brain/1.YouTube_Script/1.伝説のバケモノ〜魂の説法〜/分析データ",
+    "Gut & Brain/1.YouTube_Script/1.伝説のバケモノ〜魂の説法〜/【警告】「いい人」ほど、惨めな晩年を迎えます。銀座の女帝が見た、地獄に落ちる善人の共通点.md",
+    "Gut & Brain/1.YouTube_Script/1.伝説のバケモノ〜魂の説法〜/8.【美輪明宏】厄払いに行く前に聞いて。厄年は「罰」ではありません.md",
+    "Gut & Brain/1.YouTube_Script/1.伝説のバケモノ〜魂の説法〜/9.【瀬戸内寂聴】不倫.md",
+    "Gut & Brain/1.YouTube_Script/2.台本構成",
+    "Gut & Brain/1.YouTube_Script/1.伝説のバケモノ〜魂の説法〜",
+    "Gut & Brain/1.YouTube_Script/1.DAisuke DΞCODE",
+    "Gut & Brain/1.YouTube_Script/1. Syoku_Bazz",
+    "Gut & Brain/1.YouTube_Script",
     "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/無題のファイル.base",
     "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/スクリーンショット 2025-09-18 13.04.13.png",
     "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/スクリーンショット 2025-09-18 13.00.01.png",
     "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/IMG_9341.jpg",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/IMG_9339.jpeg",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/IMG_9339 1.jpeg",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/IMG_9338.jpeg",
-    "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本/IMG_9337.jpeg",
     "Gut & Brain/1.YouTube 台本/2.台本構成/0.【腸×脳】AI 台本",
-    "Gut & Brain/1.YouTube 台本/1.伝説のバケモノ〜魂の説法〜/分析データ",
-    "Gut & Brain/1.YouTube 台本/2.台本構成",
-    "Gut & Brain/1.YouTube 台本/1.台本プロンプト",
-    "Gut & Brain/1.YouTube 台本/1.伝説のバケモノ〜魂の説法〜",
-    "Gut & Brain/1.YouTube 台本/1. 食のバズ歴史",
-    "Gut & Brain/1.YouTube 台本",
     "無題のファイル 1.canvas",
-    "無題のファイル.canvas",
-    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9339.jpeg",
-    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9338.jpeg",
-    "Gut & Brain/1.YouTube/2.台本構成/0.【腸×脳】AI 台本/IMG_9337.jpeg"
+    "無題のファイル.canvas"
   ]
 }
