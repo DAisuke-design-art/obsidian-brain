@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_YouTube_Script/1_Syoku_Bazz/11.鰻 新本編.md",
+                "file": "1_YouTube_Script/1_Syoku_Bazz/11.鰻 新本編 ナレーション用 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.鰻 新本編"
+              "title": "11.鰻 新本編 ナレーション用 1"
             }
           },
           {
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gut & Brain/0.日記・夢ノート/2026/2026-02-12.md",
+                "file": "Gut & Brain/0.日記・夢ノート/2026/2026-02-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-12"
+              "title": "2026-02-13"
             }
           },
           {
@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Journal/2026/02/20260212.md",
+                "file": "0.Journal/2026/02/2026-02-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260212"
+              "title": "2026-02-13"
             }
           },
           {
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a086d698af8b96e5",
@@ -262,18 +262,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "cedff433a3e36b20",
+  "active": "4f55de77ee51b388",
   "lastOpenFiles": [
+    "Gut & Brain/0.日記・夢ノート/2026/2026-02-13.md",
+    "1_YouTube_Script/1_Syoku_Bazz/11.鰻 新本編 ナレーション用 1.md",
+    "0.Journal/2026/02/2026-02-13.md",
+    "1_YouTube_Script/1_Syoku_Bazz/11.鰻（旧作） 1-2 ナレーション用 1.md",
+    "1_YouTube_Script/1_Syoku_Bazz/11.鰻 新本編 ナレーション用.md",
+    "1_YouTube_Script/1_Syoku_Bazz/11.鰻 新本編.md",
+    "1_YouTube_Script/1_Syoku_Bazz/11.女 鰻 企画案.md",
     "0.Journal/2026/02/20260212.md",
     "Gut & Brain/0.日記・夢ノート/2026/2026-02-12.md",
-    "1_YouTube_Script/1_Syoku_Bazz/11.鰻 新本編.md",
     "0.Journal/2026/02",
     "0.Journal/2026",
     "0.Journal",
-    "1_YouTube_Script/1_Syoku_Bazz/11.女 鰻 企画案.md",
     "1_YouTube_Script/1_Syoku_Bazz/11.鰻.md",
     "1_YouTube_Script/1_Syoku_Bazz/11.鰻 1.md",
-    "1_YouTube_Script/1_Syoku_Bazz/11.鰻 1-2 ナレーション用 1.md",
     "Gut & Brain/0.日記・夢ノート/2026/2026-02-11.md",
     "Gut & Brain/0.日記・夢ノート/2026/2026-02-10.md",
     "1_YouTube_Script/1_Syoku_Bazz/10-2.「不潔」こそが安全の証。客が暖簾で手脂を拭う、江戸前寿司の「狂った」衛生管理 1.md",
@@ -289,10 +293,6 @@
     "1_YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/6-1 嗅覚鈍化 メモ.md",
     "Gut & Brain/0.日記・夢ノート/2026/2026-02-05.md",
     "Gut & Brain/0.日記・夢ノート/2026/2026-02-04.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-02-03.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-02-02.md",
-    "Gut & Brain/0.日記・夢ノート/2026/2026-02-01.md",
-    "1_YouTube_Script/1_Syoku_Bazz/10.寿司は「美食」ではない。冷蔵庫なき江戸、酸と塩で腐敗をハックした生存戦略.md",
     "1_YouTube_Script/1_Syoku_Bazz/Analytics_Reports",
     "1_YouTube_Script/1_Syoku_Bazz/Memo_Folder",
     "Gut & Brain/1.YouTube_Script/2.台本構成/0.【腸×脳】AI 台本/無題のファイル.base",
