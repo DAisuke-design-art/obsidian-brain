@@ -40,8 +40,8 @@
 <!-- IMG_S1_03: 新規画像 -->
 庶民の家にあるのは菜種油の行灯がひとつ。本がぎりぎり読める程度の、薄暗い灯りだけでした。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 庶民の長屋の薄暗い土間に置かれた菜種油の行灯一つ。ぼんやりとした琥珀色の光が畳半畳ほどしか照らさない。吉原ではない、庶民の貧しい住居
 - Scene: Master_Yoshiwara_Zashiki
@@ -57,7 +57,7 @@
 そんな闇の中に、赤い提灯が連なる「不夜城」が浮かび上がっています。//
 [GEM1_DIRECTIVE]
 - Shot_Scale: Long Shot (LS)
-- Camera_Angle: Worm's Eye View
+- Camera_Angle: Low Angle
 - Subject: 環境
 - Focus: 漆黒の闇から浮かび上がる吉原大門と、門前に連なる赤い提灯の列。異質な光の帯が夜空を切り裂く
 - Scene: Master_Yoshiwara_Zashiki
@@ -78,7 +78,7 @@
 <!-- IMG_S1_06: 新規画像 -->
 おしろいの粉っぽい匂いと、獣のような熱気が混ざり合う、独特な空気が漂っています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 吉原の廊下。行灯の光に照らされた空気中に白粉の粒子が浮遊し、障子越しに人影が揺れる
@@ -105,7 +105,7 @@
 <!-- REUSE: IMG_S1_06 —「おしろいの粉っぽい匂いと、獣のような熱気が混ざり合う…」 -->
 喜田川守貞が書いた『守貞謾稿（もりさだまんこう）』という記録を読むと、吉原の空気は独特だったと書かれています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 吉原の廊下に漂う白粉と脂煙が混じった重い空気。行灯の光が滲む
@@ -118,7 +118,7 @@
 <!-- IMG_S1_07: 新規画像 -->
 華やかに見える場所が、実は密閉された檻のようだった……そう感じるのは、私だけじゃないと思うんです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Dutch Angle
 - Subject: 環境
 - Focus: 格子越しに見る廊下。傾いた構図が閉塞感を強調し、格子の影が畳に落ちる。檻のような空間
@@ -131,7 +131,7 @@
 <!-- IMG_S1_08: 新規画像 -->
 その重たい空気の中に、突如として「異質な香り」が割り込んできます。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 座敷の空気が変わる瞬間。障子の隙間から流れ込む焦げた醤油の煙が、行灯の光に照らされて帯状に漂う
@@ -142,8 +142,8 @@
 <!-- IMG_S1_09: 新規画像 -->
 焦げた醤油と、濃厚な脂の匂い。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Overhead Shot
 - Subject: 小道具
 - Focus: 黒漆塗りの重箱の蓋が半開きの状態。隙間から濃い白煙が立ち上り、飴色のタレの照りが蝋燭の光を反射する
 - Scene: Master_Ageya_Koshitsu
@@ -155,7 +155,7 @@
 <!-- IMG_S1_10: 新規画像 -->
 格子の隙間から、黒塗りの重箱（じゅうばこ）が差し入れられます。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Close-Up (MCU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Low Angle
 - Subject: 小道具
 - Focus: 格子の細い隙間から差し入れられる黒漆塗りの重箱。差し出す男の腕と、格子の木目が交差する
@@ -248,8 +248,8 @@
 <!-- IMG_S2_02: 新規画像 -->
 中には、飴色に輝く鰻がびっしりと敷き詰められています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Extreme Close-Up (ECU)
-- Camera_Angle: Top Shot
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Overhead Shot
 - Subject: 小道具
 - Focus: 重箱の中に隙間なく敷き詰められた飴色の鰻。タレが蝋燭の光を反射し、琥珀色の宝石のように輝く
 - Scene: Master_Ageya_Koshitsu
@@ -291,8 +291,8 @@
 <!-- REUSE: IMG_S2_02 —「中には、飴色に輝く鰻がびっしりと敷き詰められています。」 -->
 そこに、脂質20％を超える鰻が投入される。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
-- Camera_Angle: Top Shot
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Overhead Shot
 - Subject: 小道具
 - Focus: 重箱に敷き詰められた鰻。脂が表面に浮き、行灯の光を反射する
 - Scene: Master_Ageya_Koshitsu
@@ -335,7 +335,7 @@
 <!-- REUSE: IMG_S1_10 —「格子の隙間から、黒塗りの重箱が差し入れられます。」 -->
 さっき、格子の隙間から重箱が差し入れられましたよね。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Close-Up (MCU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Low Angle
 - Subject: 小道具
 - Focus: 格子の細い隙間から差し入れられる黒漆塗りの重箱。格子の木枠と差し出す男の腕が交差する
@@ -514,8 +514,8 @@
 <!-- IMG_S3_07: 新規画像 -->
 花魁には鰻の出前が届く。でも新造には冷えた握り飯しかない。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 黒漆塗りの重箱と、竹皮に包まれた冷えた握り飯が並ぶ。格差を物語る二つの食事
 - Scene: Master_Shitaku_Beya
@@ -559,7 +559,7 @@
 <!-- IMG_S3_08: 新規画像 -->
 それが、あの「黒い棒」だったんです。黒くて、カチカチした硬い棒だったんです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 炭火で焼き上げられた鰻の串。タールのような黒い被膜が炭火の赤を反射し、表面で気泡が弾ける
@@ -588,7 +588,7 @@
 <!-- REUSE: IMG_S3_08 —「それが、あの『黒い棒』だったんです。」 -->
 そして、これがお羽のエネルギー源。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 炭火で焼き上げられた鰻の串。黒いタレの被膜が光る
@@ -611,11 +611,10 @@
 ……どうですか？ 私たちが知っている鰻とは、少し様子が違いませんか？//
 
 **[Layer 1: 史料語り]**
-
 <!-- IMG_S4_02: 新規画像 -->
 天然の鰻は、皮が分厚く、筋肉の繊維が鋼（はがね）のように強靡だったそうです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: まな板の上の天然鰻。分厚い黒い皮と、太い胴体。現代の養殖物とは明らかに異なる野性的な質感
@@ -626,34 +625,37 @@
 <!-- REUSE: IMG_S4_02 —「天然の鰻は、皮が分厚く、筋肉の繊維が鋼のように強靡だった…」 -->
 そのまま焼いただけでは、咨嚼筋（そしゃくきん）が負けてしまうほど硬く、脂も強烈すぎたとか。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Extreme Close-Up (ECU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 天然鰻の断面。密度の高い筋肉繊維と、皮下に溜まった脂の層
 - Scene: Master_Wooden_Frame
 - Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
+
 <!-- REMOTION_TEXT -->
 どれくらい筋肉質で硬いのか、握って確認してみたくなりました。//
 
 **[Layer 2: 考察語り — 独自解釈]**
-
 <!-- IMG_S4_03: 新規画像 -->
-当時、高級店では「蒸し」て脂を落とす技法も始まっていました。//
+宝暦年間に「蒸し」の技法が確立されたと言われています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Full Shot (MFS)
-- Camera_Angle: Hip Level
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 鰻職人
-- Focus: 猛烈な煙の中で、団扇を煽り続ける職人の鬼気迫る背中。蒸し器はなく、直火のみ
+- Focus: 蒸篭から爆発的に立ち昇る白い蒸気の中で、団扇を構える職人のシルエット
 - Scene: Master_Wooden_Frame
 - Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
-でも、屋台の鰻は違います。蒸したりなんかしない。//
+これ、単に柔らかくするためだけじゃなかったと私は思うんです。//
 
 <!-- REMOTION_TEXT -->
-生きるために、あの強烈な脂が必要だったから。//
+資料には「食感のため」としか書かれていませんが……私はちょっと違うと思うんです。//
+
+<!-- REMOTION_TEXT -->
+過労で胃腸が弱っているお羽のような女性が、あの強烈な脂を消化吸収できるようにするための……いわば「バイオ・ハッキング」だったんじゃないでしょうか。//
 
 **[Interactive Phrase: Type E]**
 <!-- REMOTION_TEXT -->
@@ -664,21 +666,21 @@
 
 **[Layer 1: 史料語り]**
 <!-- IMG_S4_04: 新規画像 -->
-煮詰まった醤油と酒。そこに何千匹もの鰻の脂が溶け込んだ、ドロドロのタレ。//
+さらに、たっぷりの砂糖と醤油を煮詰めたタレ。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Overhead Shot
 - Subject: 小道具
 - Focus: タレ壺の黒い液面。粘性の高いタレが串を浸す瞬間、表面に気泡が浮かぶ
 - Scene: Master_Wooden_Frame
 - Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
-<!-- REUSE: IMG_S4_04 —「煮詰まった醤油と酒。そこに何千匹もの鰻の脂が溶け込んだ…」 -->
-砂糖なんて高級品、屋台では使えません。//
+<!-- REUSE: IMG_S4_04 —「さらに、たっぷりの砂糖と醤油を煮詰めたタレ。」 -->
+当時、砂糖はまだまだ高級な贅沢品で、庶民が気軽に使えるものではなかったそうです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Extreme Close-Up (ECU)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Overhead Shot
 - Subject: 小道具
 - Focus: タレ壺の縁にタレが堆積した黒い層。長年の蓄積
 - Scene: Master_Wooden_Frame
@@ -686,28 +688,26 @@
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S4_05: 新規画像 -->
-脂ぎったままの肉塊を、タレ壺にどっぷりとくぐらせて、炭火で焼き固める。//
+蒸して脂を整えたタンパク質に、貴重な糖分をコーティングする。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
-- Camera_Angle: Top Shot
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 鰻職人
-- Focus: タレ壺に串ごとドブ漬けにする職人の手元。粘るタレが滴り落ちる瞬間。炭火の照り返しで手が赤く染まる
+- Focus: タレを塗る職人の手元。刷毛で串にタレを塗る動作。炭火の照り返しで手と串が赤く染まる
 - Scene: Master_Wooden_Frame
 - Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S4_06: 新規画像 -->
-……それが、お羽を支えたエネルギーの正体です。//
+……それが、江戸の鰻重の正体です。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Close-Up (MCU)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 小道具
-- Focus: 焼き上がった鰻串。黒曜石のように硬く光るタレの被膜。重箱ではなく、竹皮の上に置かれた荒々しい姿
-- Scene: Master_Wooden_Frame
-- Scene_Anchor: Inherited from [Master_Wooden_Frame]
+- Focus: 完成した鰻重。黒漆塗りの重箱に隙間なく収まった飴色の鰻。行灯の光で照りが輝く
+- Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
-
-
 
 **[Layer 4: 共感語り]**
 <!-- IMG_S4_07: 新規画像 -->
@@ -750,7 +750,7 @@
 <!-- IMG_S5_01: 新規画像 -->
 見てください。この艶（つや）。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 行灯の光を受けて妖しく光る鰻のタレの照り。黒漆の重箱の中で飴色に輝く表面
@@ -761,7 +761,7 @@
 <!-- REUSE: IMG_S5_01 —「見てください。この艶（つや）。」 -->
 行燈の光を受けて、黒いタレが妖しく光っています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Extreme Close-Up (ECU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 蝋燭の光がタレに反射し、琥珀色の照りが揺らめく
@@ -781,15 +781,13 @@
 - Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
-
-
 **[Layer 2: 考察語り]**
 
 <!-- REUSE: IMG_S5_01 —「見てください。この艶（つや）。」 -->
 甘辛いタレと、炭火の香ばしさ。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
-- Camera_Angle: Top Shot
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Overhead Shot
 - Subject: 小道具
 - Focus: 重箱の中の鰻。甘辛いタレの照りと、炭火の焦げ目
 - Scene: Master_Ageya_Koshitsu
@@ -873,8 +871,6 @@
 - Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
-
-
 <!-- IMG_S5_06: 新規画像 -->
 指についた一滴まで、名残惜しそうに舔め取る。//
 [GEM1_DIRECTIVE]
@@ -932,8 +928,8 @@
 <!-- IMG_S6_02: 新規画像 -->
 神田川沿いの鰻屋から、職人たちが汗だくになりながら団扇を煒っています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Full Shot (MFS)
-- Camera_Angle: Hip Level
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 鰻職人
 - Focus: 汗だくで団扇を煽る職人のシルエット。炭火の赤い照り返しで肩と腕の筋肉が浮かぶ。顔は煙に沈む
 - Scene: Master_Wooden_Frame
@@ -955,8 +951,6 @@
 - Scene: Master_Yoshiwara_Zashiki
 - Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
-
-
 
 <!-- REMOTION_TEXT -->
 楼主がまとめて注文し、遊女個人が直接鰻屋とやり取りすることはなかった。//
@@ -1021,8 +1015,8 @@
 <!-- IMG_S6_05: 新規画像 -->
 男たちは精力剤として食べ、女たちは防御壁として食べる。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 屋台の煙越しに見える吉原の赤い提灯。屋台と遊郭を結ぶ一本の煙の線
 - Scene: Master_Wooden_Frame
@@ -1072,7 +1066,7 @@
 <!-- IMG_S7_01: 新規画像 -->
 当時の記録を見ると、かけ蒡麦一杯が16文、現代で言うと300円から400円くらい。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 帳場の板の上に散らばる寛永通宝の銅銭。磨り減った銅の鈍い光
@@ -1085,7 +1079,7 @@
 <!-- REUSE: IMG_S7_01 —「当時の記録を見ると、かけ蒡麦一杯が16文…」 -->
 それに対して、鰻の蒲焼きは……神田川沿いの屋台なら、一串約48文。今の感覚で800円から900円。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 帳場に積まれた銅銭。少量の山
@@ -1096,7 +1090,7 @@
 <!-- IMG_S7_02: 新規画像 -->
 でも、吉原への出前となると……一串で200文以上。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
+- Shot_Scale: Medium Shot (MS)
 - Camera_Angle: High Angle
 - Subject: 小道具
 - Focus: 帳簿の上に高く積まれた銅銭の山。その横に墨で「二百文」と書かれた帳簿の一行
@@ -1131,8 +1125,8 @@
 <!-- IMG_S7_03: 新規画像 -->
 この出前代の多くは、遊女の勘定……いわゆる「前借金」に上乗せされていた可能性があるんです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Establishing Shot (ES)
-- Camera_Angle: Low Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 帳簿に筆で書き込む手元。墨痕が乾く前に次の行が加わる。前借金が積み上がる帳面
 - Scene: Master_Yoshiwara_Zashiki
@@ -1142,8 +1136,8 @@
 <!-- REUSE: IMG_S7_03 —「この出前代の多くは…『前借金』に上乗せされていた…」 -->
 生き延びるために食べた鰻が、お羽を縛る鎖をさらに重くしていた。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
-- Camera_Angle: Dutch Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 帳簿のページいっぱいに記載された借金の列。墨の黒さが重い
 - Scene: Master_Yoshiwara_Zashiki
@@ -1281,8 +1275,8 @@
 <!-- IMG_S8_06: 新規画像 -->
 楼主が「この子にはもう投資する価値がない」と判断したとき……供給を止めたんじゃないか。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
-- Camera_Angle: Eye Level
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 座敷に置かれた空の重箱。蓋が開いたまま、中には何もない。蝋燭の光だけが空虚を照らす
 - Scene: Master_Ageya_Koshitsu
@@ -1383,8 +1377,8 @@
 <!-- REUSE: IMG_S9_02 —「全ての喧騒が終わったあと、お羽が、最後のひと切れを口にします。」 -->
 誰の指示でもなく、お羽が自分で口に運んだものだったはずです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Close-Up (MCU)
-- Camera_Angle: Front View
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: お羽
 - Attire_Module: Type_A (Oiran)
 - Focus: 自分の意志で口に運ぶ瞬間。お羽の唯一の自由
@@ -1491,8 +1485,8 @@
 <!-- IMG_S10_01: 新規画像 -->
 お羽が愛した、あの野性的で強烈な味も、もうここにはありません。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Long Shot (LS)
-- Camera_Angle: High Angle
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 隅田川の水面。月光の反射が波紋で揺れる。江戸と現代を繋ぐ水の記憶
 - Scene: Master_Yoshiwara_Zashiki
@@ -1524,8 +1518,8 @@
 <!-- IMG_S10_02: 新規画像 -->
 次にあなたがその箱を開けるとき、ふと、あの夜の匂いを思い出してくれたら……。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Close-Up (CU)
-- Camera_Angle: Top Shot
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 空っぽの重箱。湯気だけが残っている。琥珀色の残り香が漂う静物
 - Scene: Master_Ageya_Koshitsu
@@ -1535,8 +1529,8 @@
 <!-- REUSE: IMG_S10_02 —「次にあなたがその箱を開けるとき、ふと、あの夜の匂いを…」 -->
 きっと、お羽も喜ぶような気がします。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Extreme Close-Up (ECU)
-- Camera_Angle: Top Shot
+- Shot_Scale: Medium Shot (MS)
+- Camera_Angle: Eye Level
 - Subject: 小道具
 - Focus: 空の重箱。湯気の名残と、蝋燭の最後の光
 - Scene: Master_Ageya_Koshitsu
