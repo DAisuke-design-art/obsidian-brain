@@ -1206,6 +1206,9 @@
 - Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
+
+
+
 <!-- IMG_S8_02: 新規画像 -->
 天明三年—1783年、浅間山の大噴火と天明の大飢饉が重なりました。//
 [GEM1_DIRECTIVE]
