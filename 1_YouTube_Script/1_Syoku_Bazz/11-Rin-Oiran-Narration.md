@@ -23,16 +23,18 @@
 - Subject: 環境
 - Focus: 鳥瞰で見下ろした天明年間の江戸の街並み。闇に沈む木造長屋の屋根の連なりと、菜種油の行灯がわずかに灯る点
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S1_02: 新規画像 -->
 その夜は、現代人が想像するよりもずっと暗く、そして静かだったそうです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 月光だけが照らす江戸の路地。人影はなく、長屋の風化した板壁の木目が闇でかろうじて見える
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S1_03: 新規画像 -->
@@ -43,6 +45,7 @@
 - Subject: 環境
 - Focus: 庶民の長屋の薄暗い土間に置かれた菜種油の行灯一つ。ぼんやりとした琥珀色の光が畳半畳ほどしか照らさない。吉原ではない、庶民の貧しい住居
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 
@@ -53,11 +56,12 @@
 <!-- IMG_S1_04: 新規画像 -->
 そんな闇の中に、赤い提灯が連なる「不夜城」が浮かび上がっています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: Low Angle
 - Subject: 環境
 - Focus: 漆黒の闇から浮かび上がる吉原大門と、門前に連なる赤い提灯の列。異質な光の帯が夜空を切り裂く
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S1_05: 新規画像 -->
@@ -68,6 +72,7 @@
 - Subject: 環境
 - Focus: 吉原大門をくぐった先に広がる仲之町通り。行灯が並ぶ引手茶屋の軒先と、格子窓から漏れる光
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S1_06: 新規画像 -->
@@ -78,6 +83,7 @@
 - Subject: 環境
 - Focus: 吉原の廊下。行灯の光に照らされた空気中に白粉の粒子が浮遊し、障子越しに人影が揺れる
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 
@@ -104,6 +110,7 @@
 - Subject: 環境
 - Focus: 吉原の廊下に漂う白粉と脂煙が混じった重い空気。行灯の光が滲む
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 
@@ -116,6 +123,7 @@
 - Subject: 環境
 - Focus: 格子越しに見る廊下。傾いた構図が閉塞感を強調し、格子の影が畳に落ちる。檻のような空間
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 **[Layer 3: 再現語り]**
@@ -128,6 +136,7 @@
 - Subject: 環境
 - Focus: 座敷の空気が変わる瞬間。障子の隙間から流れ込む焦げた醤油の煙が、行灯の光に照らされて帯状に漂う
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S1_09: 新規画像 -->
@@ -138,6 +147,7 @@
 - Subject: 小道具
 - Focus: 黒漆塗りの重箱の蓋が半開きの状態。隙間から濃い白煙が立ち上り、飴色のタレの照りが蝋燭の光を反射する
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 
@@ -150,6 +160,7 @@
 - Subject: 小道具
 - Focus: 格子の細い隙間から差し入れられる黒漆塗りの重箱。差し出す男の腕と、格子の木目が交差する
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S1_11: 新規画像 -->
@@ -160,6 +171,7 @@
 - Subject: 男性労働者
 - Focus: 格子の隙間から突き出された男の前腕。格子の木枠が腕を縦に挟み込み、画面を分断する。日焼けした肌に太い血管が浮き出し、手首に汗が光る。顔は格子の向こう側の闇に沈む
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 **[Layer 4: 共感語り]**
@@ -196,8 +208,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 豪華な打掛をまとった女性の後ろ姿。行灯の逆光で輪郭だけが浮かび、うなじの白さが闇に映える
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 ---
@@ -206,9 +220,9 @@
 
 **【Scene: 揚屋の個室・密室】**
 
-- **被写体:** 豪華な着物を着崩した遊女。顔のアップではなく、口元、喉、指先のクローズアップを多用。
+- **被写体:** 豪華な着物を着崩した遊女。表情・口元・喉・指先のクローズアップを多用。顔面描写はSRP適用外（visual_protocol §2準拠）。
     
-- **アクション:** 重箱の蓋を開ける。湯気が顔にかかる。箸で鰻を持ち上げるのではなく、手掴みで口に運ぶような切迫感（あるいは行儀悪さ）。
+- **アクション:** 重箱の蓋を開ける。湯気が顔にかかる。串を両手でそっと持ち、小さく口を開けて噛みつく。鰻のサイズに対して口が小さく、上品に苦戦する可愛らしさ（visual_protocol §6準拠）。
     
 - **質感:** 鰻のタレの照りと、女性の唇の湿り気。
     
@@ -222,11 +236,13 @@
 <!-- IMG_S2_01: 新規画像 -->
 蓋を開けた瞬間、白い湯気が彼女の顔を包みます。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Medium Close-Up (MCU)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 黒漆塗りの重箱の蓋を開けた瞬間、白い湯気がお羽の白粉で塗られた顔を包む。蝋燭の光が湯気を琥珀色に染める
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S2_02: 新規画像 -->
@@ -237,6 +253,7 @@
 - Subject: 小道具
 - Focus: 重箱の中に隙間なく敷き詰められた飴色の鰻。タレが蝋燭の光を反射し、琥珀色の宝石のように輝く
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S2_03: 新規画像 -->
@@ -245,8 +262,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Over-the-Shoulder
 - Subject: お羽
-- Focus: 周囲を窺いながら、タレで光る鰻を指先で摘み、素早く口元へ運ぶお羽の横顔。警戒と渇望が入り混じる表情
+- Attire_Module: Type_A (Oiran)
+- Focus: 周囲を窺いながら、両手で串をそっと持ち、素早く口元へ運ぶお羽の横顔。警戒と渇望が入り混じる表情
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 
@@ -256,11 +275,12 @@
 <!-- IMG_S2_04: 新規画像 -->
 当時の記録を紐解くと、庶民の食事は玄米と野菜が中心で、脂質の摂取量は現代の数分の一以下だったようです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 質素な膳に盛られた玄米と漬物だけの食事。暗い土間に置かれた一汁一菜の貧しさ
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -276,16 +296,19 @@
 - Subject: 小道具
 - Focus: 重箱に敷き詰められた鰻。脂が表面に浮き、行灯の光を反射する
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S2_03 —「彼女は周りを警戒するように、素早くそれを口に運びます。」 -->
 これは食事というより、一種の「投薬」に近い行為だったのかもしれません。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Medium Close-Up (MCU)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 鰻を口に含んだ瞬間のお羽。目を伏せ、全身で飲み込むように食べる
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[Layer 4: 共感語り — 反論]**
@@ -317,6 +340,7 @@
 - Subject: 小道具
 - Focus: 格子の細い隙間から差し入れられる黒漆塗りの重箱。格子の木枠と差し出す男の腕が交差する
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -340,11 +364,13 @@
 <!-- IMG_S2_05: 新規画像 -->
 彼女の喉が、ごくりと鳴るのが聞こえてきそうです。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Medium Close-Up (MCU)
 - Camera_Angle: Low Angle
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 嚥下の瞬間。蝋燭の光が白い喉元を照らし、喉仏の動きが影で浮かぶ。うなじから鎖骨にかけての緊張
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 ---
@@ -369,8 +395,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Over-the-Shoulder
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 鏡台の前に座るお羽の後ろ姿。打掛の重みで丸まった肩と、鏡に映る白粉で塗られた横顔の断片
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S3_02: 新規画像 -->
@@ -379,8 +407,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: High Angle
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 打掛の下で帯に締め上げられた胴体。布の皺と、帯の食い込みが作る圧迫の線
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 **[Layer 4: 共感語り — 命名宣言]**
@@ -400,8 +430,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 鏡台の前のお羽の後ろ姿。打掛の重量で沈む肩。重さと佇まい
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 **[Layer 1: 史料語り]**
@@ -409,11 +441,13 @@
 <!-- IMG_S3_03: 新規画像 -->
 天明年間の吉原で、花魁の衣装は、かつらと合わせると総重量で20キロとも30キロとも言われています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 正装した花魁の全身。巨大な日本髪と数十本の簪、金糸の打掛、帯の重厚な層。圧倒的な重装備
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 
@@ -434,8 +468,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Low Angle
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 巨大な簪が何本も刺さった日本髪と、それを支えるお羽の首筋。僧帽筋の緊張が白粉の下に浮かぶ
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S3_05: 新規画像 -->
@@ -444,8 +480,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 仲之町を練り歩く花魁道中。30kgの装備の重圧で沈み込む肩、微動だにしない体幹、金糸銀糸の打掛がわずかに前後に揺れる。頭上には巨大な日本髪と何本もの簪が重力に逆らって聳える
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -463,11 +501,12 @@
 <!-- IMG_S3_06: 新規画像 -->
 同じ吉原でも、花魁と新造（しんぞう）では食事の格差がすさまじかった。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 仕切られた部屋の対比。片方には重箱が並ぶ豪華な膳、片方には冷えた握り飯が一つ置かれた質素な膳
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 
@@ -480,6 +519,7 @@
 - Subject: 小道具
 - Focus: 黒漆塗りの重箱と、竹皮に包まれた冷えた握り飯が並ぶ。格差を物語る二つの食事
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -524,6 +564,7 @@
 - Subject: 小道具
 - Focus: 炭火で焼き上げられた鰻の串。タールのような黒い被膜が炭火の赤を反射し、表面で気泡が弾ける
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -552,6 +593,7 @@
 - Subject: 小道具
 - Focus: 炭火で焼き上げられた鰻の串。黒いタレの被膜が光る
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S4_01: 新規画像 -->
@@ -562,6 +604,7 @@
 - Subject: 環境
 - Focus: 屋台の焼き台全景。珪藻土の長七輪の上で赤熱する備長炭と、整列する5-6本の串。白煙が立ち昇る
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -576,6 +619,7 @@
 - Subject: 小道具
 - Focus: まな板の上の天然鰻。分厚い黒い皮と、太い胴体。現代の養殖物とは明らかに異なる野性的な質感
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S4_02 —「天然の鰻は、皮が分厚く、筋肉の繊維が鋼のように強靡だった…」 -->
@@ -586,6 +630,7 @@
 - Subject: 小道具
 - Focus: 天然鰻の断面。密度の高い筋肉繊維と、皮下に溜まった脂の層
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -600,6 +645,7 @@
 - Subject: 鰻職人
 - Focus: 蒸篭から爆発的に立ち昇る白い蒸気の中で、団扇を構える職人のシルエット
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -627,6 +673,7 @@
 - Subject: 小道具
 - Focus: タレ壺の黒い液面。粘性の高いタレが串を浸す瞬間、表面に気泡が浮かぶ
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S4_04 —「さらに、たっぷりの砂糖と醤油を煮詰めたタレ。」 -->
@@ -637,6 +684,7 @@
 - Subject: 小道具
 - Focus: タレ壺の縁にタレが堆積した黒い層。長年の蓄積
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S4_05: 新規画像 -->
@@ -647,6 +695,7 @@
 - Subject: 鰻職人
 - Focus: タレを塗る職人の手元。刷毛で串にタレを塗る動作。炭火の照り返しで手と串が赤く染まる
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S4_06: 新規画像 -->
@@ -657,6 +706,7 @@
 - Subject: 小道具
 - Focus: 完成した鰻重。黒漆塗りの重箱に隙間なく収まった飴色の鰻。行灯の光で照りが輝く
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[Layer 4: 共感語り]**
@@ -666,8 +716,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 支度部屋の片隅で、打掛を着たまま重箱に手を伸ばすお羽。美しさと飢餓が同居する
 - Scene: Master_Shitaku_Beya
+- Scene_Anchor: Inherited from [Master_Shitaku_Beya]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -703,6 +755,7 @@
 - Subject: 小道具
 - Focus: 行灯の光を受けて妖しく光る鰻のタレの照り。黒漆の重箱の中で飴色に輝く表面
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S5_01 —「見てください。この艶（つや）。」 -->
@@ -713,16 +766,19 @@
 - Subject: 小道具
 - Focus: 蝋燭の光がタレに反射し、琥珀色の照りが揺らめく
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S5_02: 新規画像 -->
-お羽は、周りを気にすることなく、大きな一口を頰張ります。//
+お羽は、周りを気にすることなく、小さく口を開けて鰻に噛みつきます。//
 [GEM1_DIRECTIVE]
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Over-the-Shoulder
 - Subject: お羽
-- Focus: 遠慮のない大きな一口を頰張るお羽。白粉で塗られた横顔と、タレで光る唇
+- Attire_Module: Type_A (Oiran)
+- Focus: 小さく口を開けて鰻に噛みつくお羽。鰻のサイズに苦戦する可愛らしさ。白粉で塗られた横顔と、下唇にグロスのように光るタレ
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[Layer 2: 考察語り]**
@@ -735,16 +791,19 @@
 - Subject: 小道具
 - Focus: 重箱の中の鰻。甘辛いタレの照りと、炭火の焦げ目
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S5_03: 新規画像 -->
 そして何より、当時の人々が飢えていた「圧倒的な脂」が、口いっぱいに広がっていく……。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Medium Close-Up (MCU)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 鰻を頰張ったお羽。目を閉じ、至福の瞬間に全身の力が抜ける
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -760,11 +819,13 @@
 <!-- IMG_S5_04: 新規画像 -->
 血糖値が急上昇して、体温が一気に上がる。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Medium Close-Up (MCU)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 食後の紅潮。額に薄く浮かぶ汗と、白粉の下から透ける血色。蝋燭の光で肌が上気して見える
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S5_04 —「血糖値が急上昇して、体温が一気に上がる。」 -->
@@ -773,8 +834,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 上気した頬と、鎖骨にかけて浮かぶ薄い汗。体温の上昇
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[Layer 4: 共感語り — 独自解釈]**
@@ -799,11 +862,13 @@
 <!-- IMG_S5_05: 新規画像 -->
 お羽の唇には、タレの脂がルージュのように残っています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Close-Up (CU)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: お羽の唇。タレの脂が紅と混じり、ルージュのように妖しく光る。蝋燭の光が唇の湿り気を照らす
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S5_06: 新規画像 -->
@@ -812,8 +877,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Low Angle
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 白粉で塗られた指先に付着したタレの一滴を、名残惜しそうに舐め取るお羽。唇と指先の接触
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S5_06 —「指についた一滴まで、名残惜しそうに舔め取る。」 -->
@@ -822,8 +889,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 指先のタレを舐め取った直後の余韻。花魁の気品と獣の飢餓が同居する表情
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 ---
@@ -848,11 +917,12 @@
 <!-- IMG_S6_01: 新規画像 -->
 その熱狂を支えていたのが、この煙の向こう側です。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: Low Angle
 - Subject: 環境
 - Focus: もうもうと立ち込める白煙の向こうに浮かぶ鰻屋台の赤い炭火。煙が光を拡散させ、輪郭が滲む
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S6_02: 新規画像 -->
@@ -863,6 +933,7 @@
 - Subject: 鰻職人
 - Focus: 汗だくで団扇を煽る職人のシルエット。炭火の赤い照り返しで肩と腕の筋肉が浮かぶ。顔は煙に沈む
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 **[Layer 2: 考察語り — 独自解釈]**
@@ -873,11 +944,12 @@
 <!-- IMG_S6_03: 新規画像 -->
 鰻屋は吉原専用の出前ルートを持っていた。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 夜の路地を足早に進む出前持ちの男。重箱を詰めた桶を肩に担ぎ、提灯の光を頼りに走る後ろ姿
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -896,6 +968,7 @@
 - Subject: 環境
 - Focus: 屋台の焼き台全景。白煙と炭火の光
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -920,11 +993,12 @@
 <!-- IMG_S6_04: 新規画像 -->
 梅毒（ばいどく）などの病が、すぐ隣にあった時代です。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 吉原の暗い廊下。行灯の光が届かない奥に闇が広がる。華やかさの裏にある病と死の気配
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -946,6 +1020,7 @@
 - Subject: 環境
 - Focus: 屋台の煙越しに見える吉原の赤い提灯。屋台と遊郭を結ぶ一本の煙の線
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -957,11 +1032,12 @@
 <!-- REUSE: IMG_S6_01 —「その熱狂を支えていたのが、この煙の向こう側です。」 -->
 この煙の中に、江戸の欲望と生存本能がすべて詰まっているような気がします。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: Low Angle
 - Subject: 環境
 - Focus: 白煙が渦巻く屋台全景。欲望と生存本能が煙に凝縮されている
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 
@@ -995,6 +1071,7 @@
 - Subject: 小道具
 - Focus: 帳場の板の上に散らばる寛永通宝の銅銭。磨り減った銅の鈍い光
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 **[CONTRA — 価格乖離]**
@@ -1007,6 +1084,7 @@
 - Subject: 小道具
 - Focus: 帳場に積まれた銅銭。少量の山
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S7_02: 新規画像 -->
@@ -1017,6 +1095,7 @@
 - Subject: 小道具
 - Focus: 帳簿の上に高く積まれた銅銭の山。その横に墨で「二百文」と書かれた帳簿の一行
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -1051,6 +1130,7 @@
 - Subject: 環境
 - Focus: 帳簿に筆で書き込む手元。墨痕が乾く前に次の行が加わる。前借金が積み上がる帳面
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S7_03 —「この出前代の多くは…『前借金』に上乗せされていた…」 -->
@@ -1061,6 +1141,7 @@
 - Subject: 環境
 - Focus: 帳簿のページいっぱいに記載された借金の列。墨の黒さが重い
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 **[Layer 4: 共感語り]**
@@ -1080,8 +1161,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 懐から巾着を取り出し、わずかな小銭を数えるお羽の指先。白粉で塗られた手と、摩耗した銅銭
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -1109,11 +1192,12 @@
 <!-- IMG_S8_01: 新規画像 -->
 しかし、この「生存システム」は、とても脆いものでした。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 灰色のトーンに変わった街並み。活気を失い、行灯の光も疎らになった江戸の路地
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S8_02: 新規画像 -->
@@ -1124,16 +1208,18 @@
 - Subject: 環境
 - Focus: 煤けた空。火山灰で曇った太陽と、荒廃した江戸の屋根の稜線
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S8_03: 新規画像 -->
 鰻の供給は止まり、川の水が汚れ、魚が消えることもありました。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 空っぽの鰻桶が路地に転がっている。屋台の骨組みだけが残り、炭火は消えている
 - Scene: Master_Wooden_Frame
+- Scene_Anchor: Inherited from [Master_Wooden_Frame]
 [/GEM1_DIRECTIVE]
 
 **[Layer 3: 再現語り]**
@@ -1141,11 +1227,13 @@
 <!-- IMG_S8_04: 新規画像 -->
 煙が消えた街で、お羽の肌から艶（つや）が失われていきます。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Medium Close-Up (MCU)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 生気を失ったお羽。カサついた肌、乾いてひび割れた唇。白粉が浮いて崩れかけた化粧
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S8_04 —「煙が消えた街で、お羽の肌から艶が失われていきます。」 -->
@@ -1154,8 +1242,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 乾いた唇のひび割れ。紅が剥がれ、地肌が見える
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[CONTRA — 前提崩壊]**
@@ -1168,11 +1258,12 @@
 <!-- IMG_S8_05: 新規画像 -->
 飢饉のとき、吉原だけは食料の供給が途絶えなかった記録がある。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: High Angle
 - Subject: 環境
 - Focus: 飢えた町人が行き交う路地の奥に、変わらず灯りが点る吉原の門。格差の象徴
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -1189,6 +1280,7 @@
 - Subject: 環境
 - Focus: 座敷に置かれた空の重箱。蓋が開いたまま、中には何もない。蝋燭の光だけが空虚を照らす
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -1205,8 +1297,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 生気を失いながらも、どこか達観した表情のお羽。弱さの中の美しさ
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 
@@ -1232,11 +1326,12 @@
 <!-- IMG_S9_01: 新規画像 -->
 夜が明けようとしています。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Wide Shot (WS)
+- Shot_Scale: Long Shot (LS)
 - Camera_Angle: Eye Level
 - Subject: 環境
 - Focus: 白々と明け始めた空。障子越しに差し込む青白い光と、消え入りそうな行灯の赤い炎の対比
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S9_02: 新規画像 -->
@@ -1245,8 +1340,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 化粧が崩れた横顔。白粉が汗で斑になった肌で、最後のひと切れをゆっくりと口に運ぶ
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[IRONY — 最後の自由]**
@@ -1271,8 +1368,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 夜明けの光の中で最後のひと切れを持つお羽。静寂の中の決意
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S9_02 —「全ての喧騒が終わったあと、お羽が、最後のひと切れを口にします。」 -->
@@ -1281,8 +1380,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 自分の意志で口に運ぶ瞬間。お羽の唯一の自由
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -1294,11 +1395,13 @@
 <!-- IMG_S9_03: 新規画像 -->
 この一口だけは、お羽の自由だった。//
 [GEM1_DIRECTIVE]
-- Shot_Scale: Medium Shot (MS)
+- Shot_Scale: Medium Close-Up (MCU)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 噛み締める瞬間。目に涙が浮かぶ。夜明けの青い光が涙を照らし、一筋の光になる
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[Speculation Disclosure: Type C]**
@@ -1311,8 +1414,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 食後の余韻。目を閉じたお羽の横顔。夜明けの光と行灯の残り火が、安堵の表情を照らす
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REMOTION_TEXT -->
@@ -1329,8 +1434,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 涙を流すお羽。美味しさではなく、自由の感触に泣く
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S9_04 —「でも……極限まで使い果たした体に、あの濃密な脂と温度が…」 -->
@@ -1339,8 +1446,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 静かな余韻の中のお羽。行灯の最後の炎が揺れる
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 ---
@@ -1370,6 +1479,7 @@
 - Subject: 環境
 - Focus: 闇に沈む江戸の街並み。変わりゆく景色
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S10_01: 新規画像 -->
@@ -1380,6 +1490,7 @@
 - Subject: 環境
 - Focus: 隅田川の水面。月光の反射が波紋で揺れる。江戸と現代を繋ぐ水の記憶
 - Scene: Master_Yoshiwara_Zashiki
+- Scene_Anchor: Inherited from [Master_Yoshiwara_Zashiki]
 [/GEM1_DIRECTIVE]
 
 **[Layer 2: 考察語り]**
@@ -1398,8 +1509,10 @@
 - Shot_Scale: Medium Shot (MS)
 - Camera_Angle: Eye Level
 - Subject: お羽
+- Attire_Module: Type_A (Oiran)
 - Focus: 涙の跡が残るお羽の横顔。命を燃やした美しさ
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- IMG_S10_02: 新規画像 -->
@@ -1410,6 +1523,7 @@
 - Subject: 小道具
 - Focus: 空っぽの重箱。湯気だけが残っている。琥珀色の残り香が漂う静物
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 <!-- REUSE: IMG_S10_02 —「次にあなたがその箱を開けるとき、ふと、あの夜の匂いを…」 -->
@@ -1420,6 +1534,7 @@
 - Subject: 小道具
 - Focus: 空の重箱。湯気の名残と、蝋燭の最後の光
 - Scene: Master_Ageya_Koshitsu
+- Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
 **[Interactive Phrase: Type S]**
