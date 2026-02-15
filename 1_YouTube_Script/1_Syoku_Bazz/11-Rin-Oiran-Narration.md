@@ -1245,6 +1245,8 @@
 - Scene_Anchor: Inherited from [Master_Ageya_Koshitsu]
 [/GEM1_DIRECTIVE]
 
+
+
 <!-- REUSE: IMG_S8_04 —「煙が消えた街で、お羽の肌から艶が失われていきます。」 -->
 昨日まで輝いていた唇が、乾いてひび割れているのが見えます。//
 [GEM1_DIRECTIVE]
